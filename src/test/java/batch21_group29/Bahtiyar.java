@@ -4,5 +4,6 @@ public class Bahtiyar {
 
         System.out.println("Bahtiar");
         String me;
+        int y;
     }
 }
